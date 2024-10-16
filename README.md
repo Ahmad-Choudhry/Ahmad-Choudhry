@@ -7,6 +7,21 @@
 
 Below are some of the websites and projects I've worked on.</p>
 
+WealthWingman (An AI based Stock and Market analysis application)
+https://wealthwingman.com/
+
+Ewagers (An e-sports wagering platform)
+https://ewagers.co/
+
+Koketu (A personalized clothing marketplace)
+https://koketu.com/
+
+ZoomProp (A real-estate data delivery tool)
+https://www.zoomprop.com/
+
+StoopImmobilien (A property buy/sell marketplace)
+https://stoopimmobilien.ch/
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
