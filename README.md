@@ -7,20 +7,17 @@
 
 Below are some of the websites and projects I've worked on.</p>
 
-WealthWingman (An AI based Stock and Market analysis application)
+WealthWingman (An AI based Stock and Market analysis application
 [(available for demo on request)](https://wintellisys.com/wealth-wingman/)
 
+Bammbuu (An online language learning platform)
+[link](https://www.bammbuu.co/)
+
+CloseCircle (Group-Based Payout & Social Platform)
+[link](https://www.closecircleapp.com/)
+
 Ewagers (An e-sports wagering platform)
-https://ewagers.co/
-
-Koketu (A personalized clothing marketplace)
-https://koketu.com/
-
-ZoomProp (A real-estate data delivery tool)
-https://www.zoomprop.com/
-
-StoopImmobilien (A property buy/sell marketplace)
-https://stoopimmobilien.ch/
+[link](https://ewagers.co/)
 
 </p>
 
