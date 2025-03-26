@@ -8,7 +8,7 @@
 Below are some of the websites and projects I've worked on.</p>
 
 WealthWingman (An AI based Stock and Market analysis application)
-(down for maintanace)
+[(available for demo on request)](https://wintellisys.com/wealth-wingman/)
 
 Ewagers (An e-sports wagering platform)
 https://ewagers.co/
