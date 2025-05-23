@@ -16,6 +16,9 @@ CloseCircle (Group-Based Payout & Social Platform)
 Ewagers (An e-sports wagering platform)
 [link](https://ewagers.co/)
 
+Diffie-Hellman Key Exchange Demo
+[link](https://diffie-hellman-demo.vercel.app/)
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
