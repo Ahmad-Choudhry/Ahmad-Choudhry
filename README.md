@@ -7,9 +7,6 @@
 
 Below are some of the websites and projects I've worked on.</p>
 
-WealthWingman (An AI based Stock and Market analysis application
-[(available for demo on request)](https://wintellisys.com/wealth-wingman/)
-
 Bammbuu (An online language learning platform)
 [link](https://www.bammbuu.co/)
 
